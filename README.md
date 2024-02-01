@@ -1,2 +1,4 @@
 # TYPDETAILS
 NAME        ROLLNO
+HARINDER    621
+pAWAN       622
